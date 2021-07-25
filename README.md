@@ -44,3 +44,8 @@ The biggest deviations between the model's prediction and reality occurred on da
 
 We concluded that the performance of the model was satisfactory, and we considered our study to be valid, since we stayed within the desired error metric.
 
+
+### Link for article
+
+https://daniel-bicalho.medium.com/bitcoin-value-prediction-a8753764dabd
+
